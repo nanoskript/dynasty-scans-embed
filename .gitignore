@@ -1,0 +1,4 @@
+/.pdm-python
+/.venv
+/.wrangler
+/node_modules
