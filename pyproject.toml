@@ -1,0 +1,8 @@
+[project]
+dependencies = [
+    "fastapi>=0.104.1",
+    "uvicorn[standard]>=0.24.0.post1",
+    "aiohttp>=3.9.0",
+]
+requires-python = ">=3.10"
+
