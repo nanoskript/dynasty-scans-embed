@@ -26,7 +26,7 @@ TEMPLATE = Template("""
     <title>$title</title>
     <meta http-equiv="refresh" content="0; url=$location">
     <meta property="og:title" content="$title"/>
-    <meta property="og:site_name" content="Dynasty Scans Embedded"/>
+    <meta property="og:site_name" content="dynasty-scans.nsk.sh"/>
     <meta property="og:description" content="$description"/>
     <meta property="og:image" content="$image"/>
     <meta property="og:url" content="$location"/>
